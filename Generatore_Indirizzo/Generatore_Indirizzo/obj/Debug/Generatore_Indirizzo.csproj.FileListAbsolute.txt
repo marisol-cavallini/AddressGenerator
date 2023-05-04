@@ -1,0 +1,7 @@
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\bin\Debug\Generatore_Indirizzo.exe.config
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\bin\Debug\Generatore_Indirizzo.exe
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\bin\Debug\Generatore_Indirizzo.pdb
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\obj\Debug\Generatore_Indirizzo.csproj.AssemblyReference.cache
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\obj\Debug\Generatore_Indirizzo.csproj.CoreCompileInputs.cache
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\obj\Debug\Generatore_Indirizzo.exe
+C:\Users\989608\Desktop\INFORMATICA ESERCIZII 4E\Generatore_Indirizzo\Generatore_Indirizzo\obj\Debug\Generatore_Indirizzo.pdb
